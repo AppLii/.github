@@ -1,12 +1,9 @@
-## Hi there 👋
+## AppLiiへようこそ！ 👋
 
-<!--
+![AppLiiバナー](../AppLiiバナー.png)
 
-**Here are some ideas to get you started:**
+私たちは、プログラミングを中心とした活動を行う和歌山大学のクリエ(団体)です。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ソフトウェアの開発から運営までを自主的に行うことで、技術者としてのスキル獲得を目指しています。
+
+詳しい情報は、[ホームページ](https://applii.github.io/pages/)をご覧ください。
