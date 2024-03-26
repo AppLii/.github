@@ -1,6 +1,6 @@
 ## AppLiiへようこそ！ 👋
 
-![AppLiiバナー](AppLiiバナー.png)
+![AppLiiバナー](/profile/AppLiiバナー.png)
 
 私たちは、プログラミングを中心とした活動を行う和歌山大学のクリエ(団体)です。
 
